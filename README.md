@@ -1,2 +1,2 @@
-# DoubleLinkedList
+# DoublyLinkedList
 A double linked list.
